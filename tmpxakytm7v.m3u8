@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:12.500000,
+https://cdn.jsdelivr.net/gh/iroppoke/snaptik_7492248163009514760/Img/segment000.png
+#EXTINF:12.500000,
+https://cdn.jsdelivr.net/gh/iroppoke/snaptik_7492248163009514760/Img/segment001.png
+#EXTINF:5.033333,
+https://cdn.jsdelivr.net/gh/iroppoke/snaptik_7492248163009514760/Img/segment002.png
+#EXT-X-ENDLIST
